@@ -1,6 +1,6 @@
 import React from 'react';
 import Banner from '../../components/Banner/Banner';
-import Book from '../Books/Book';
+import Book from '../Books/Books';
 import { useLoaderData } from 'react-router';
 
 const Home = () => {
